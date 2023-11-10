@@ -1,0 +1,13 @@
+{
+  "ads": {
+    "Bannerapplovine": "51",
+    "Interapplovine": "15",
+    "Nativeapplovine": "15",
+    "AdsSetActive": 0,
+     //on , of
+    "ironsourceid": "17c56b255",
+    "ADSremot": 1 ,
+ //1 =  ironsource / 2= applovin
+    "Rewordapplovin": "41"
+  }
+}
